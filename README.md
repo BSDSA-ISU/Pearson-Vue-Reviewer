@@ -129,6 +129,9 @@
 
 ## Question 9
 **Analyze the chart on the left (*MTA Ridership (Subway) | March 2025*). Given the information in the chart, select whether each statement is True or False:**
+
+![alt text](q9.png)
+
 * `[...spacing for the whole dataset.]` $\rightarrow$ ***True***
 * `[...shows a steady and consistent rate of decline.]` $\rightarrow$ ***False***
 * `[...station totals.]` $\rightarrow$ ***False***
@@ -161,6 +164,9 @@
 
 ## Question 12
 **A stock market analyst wants to analyze the volatility in a stock price over the past 4 weeks. He wants to analyze the price on the extremely high and low days compared to usual price range days. Which two visualization types meet the requirements? (Choose 2.)**
+
+![aa](q12.png)
+
 * ***Box and Whisker*** *(Correct)*
 * ***Histogram*** *(Correct)*
 * Pie Chart
@@ -183,6 +189,9 @@
 | **Max** | 35,000 | 45,000 | 42,500 | 55,000 |
 | **Min** | 25,000 | 30,000 | 40,000 | 50,000 |
 | **Mode** | 35,000 | 30,000 | 40,000 | 55,000 |
+
+
+![alt text](q13.png)
 
 ---
 
@@ -381,6 +390,9 @@
 
 ## Question 33
 **You create a column chart showing sales for different years. You decide to create tables for each year that show the demographic information for the sales in that year. When someone clicks a year in the chart, the associated table will open. Which reporting technique does this represent?**
+
+![alt text](image.png)
+
 * A. Pivoting
 * B. Disaggregating
 * ***C. Data Drilling (Drill-down / Drill-through)*** *(Correct — options C & D were below the scroll area)*
@@ -391,6 +403,9 @@
 
 ## Question 35
 **You need to determine the accuracy of this conclusion based on the *Number of Sales* bar chart (y-axis from 0 to 250,000 in increments of 50,000). What should you conclude?**
+
+![alt text](image-1.png)
+
 * A. The conclusion is inaccurate because the visualization uses scale manipulation.
 * ***B. The conclusion is accurate.*** *(Correct)*
 * C. The conclusion is inaccurate because the visualization is missing sales lead data.
@@ -421,6 +436,9 @@
 
 ## Question 38
 **You need to present the quarterly data shown in the table on the left to upper management using the most accurate, unbiased visualization. Which visualization should you choose?**
+
+![alt text](image-2.png)
+
 * **Correct Visualization:** ***Clustered Column Chart*** (Top-left)
 
 > **Explanation:** The clustered column chart displays exact quarterly values across years side by side on a consistent zero-baseline scale, avoiding the distortion of 3D pie charts, truncated axes, or 100% stacked bars that hide total volumes.
