@@ -466,3 +466,8 @@
 | What action should we take next? | ***Prescriptive analytics*** |
 | What might happen in the future? | ***Predictive analytics*** |
 | What happened in the initial product release? | ***Descriptive analytics*** |
+
+---
+
+> don't use this to cheat
+> - AlieeLinux
